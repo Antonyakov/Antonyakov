@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ffcc00&size=30&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Anton+Yakovlev;Flutter+%26+Web3+Developer;Turning+ideas+into+apps" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfff&size=30&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Anton+Yakovlev;Flutter+%26+Web3+Developer;Turning+ideas+into+apps" />
 </h1>
 
 ### 🌟 About Me
