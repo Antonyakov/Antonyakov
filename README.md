@@ -66,7 +66,7 @@ Feel free to reach out — I’m always open to exciting projects, freelance wor
 - [CV](https://github.com/Antonyakov/Antonyakov/blob/main/Anton%20Iakovlev%20flutter.pdf)
 
 <p align="center">
-  <a href="mailto:antoniakovlev20@gmail.com"><img src="https://img.shields.io/badge/email-ff61f6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:antoniakovlev20@gmail.com"><img src="https://img.shields.io/badge/email-4CAF50?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/Tony_lev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/anton-iakovlev-838045322/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
