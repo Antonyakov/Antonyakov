@@ -73,7 +73,7 @@ Feel free to reach out — I’m always open to exciting projects, freelance wor
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=11,17,18&animation=fadeIn&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,4,18&animation=fadeIn&section=footer" />
 </p>
 
 
