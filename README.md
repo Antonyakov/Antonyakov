@@ -50,8 +50,12 @@ Beautifully designed mobile wallet app with **Solana integration**, token tracki
 🤖 [**Pixabay**](https://github.com/Antonyakov/pixabay)  
 App for search images ,use Bloc,dio and freezed.
 
-🧩 [**weather_app**](https://github.com/Antonyakov/weather_app)  
+🌤️ [**weather_app**](https://github.com/Antonyakov/weather_app)  
 Simple  weather app use api.openweathermap
+
+🎶 [**spotify_player**](https://github.com/Antonyakov/spotify_player)  
+ Spotify Player app is a simple music player that allows you to play music
+
 
 
 ---
