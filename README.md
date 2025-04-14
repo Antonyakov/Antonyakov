@@ -57,7 +57,7 @@ Simple  weather app use api.openweathermap
  Spotify Player app is a simple music player that allows you to play music
 
  🌀 [**flutter_animations**](https://github.com/Antonyakov/flutter_animations)  
-A collection of smooth and modern Flutter animations for UI/UX enhancement — including fade, scale, slide, and custom transitions.
+A collection of smooth and modern Flutter animations.
 
 
 
